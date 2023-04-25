@@ -1,8 +1,7 @@
 
-                Hi There, 👋 I'm Eworitse Ebinum Egbejule
+                                      Hi There, 👋 I'm Eworitse Ebinum Egbejule
          I'm a sophomore studying Information and communication engineering who loves working with new Technology
-         
-         
+                  
 -- 🔨 I'm currently working on my portfolio
 
 -- 🔭 I'm currently learning Graphical user interfaces with Guizero, Robotics with Python
@@ -19,6 +18,8 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EbiScott&show_icons=true&theme=transparent)
+
+
 
 
 
