@@ -2,9 +2,9 @@
                                       Hi There, 👋 I'm Eworitse Ebinum Egbejule
          I'm a sophomore studying Information and communication engineering who loves working with new Technology
                   
--- 🔨 I'm currently working on my portfolio
+-- 🔨 I'm currently working on building projects for my poprtfolio
 
--- 🔭 I'm currently learning Graphical user interfaces with Guizero, Robotics with Python
+-- 🔭 I'm currently learning Graphical user interfaces with Guizero, Back-End Developement with Coursera
 
 -- 🌱 I'm looking to learn more about building robots with python
 
