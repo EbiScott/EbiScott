@@ -1,19 +1,14 @@
 
                                       Hi There, 👋 I'm Eworitse Ebinum Egbejule
-         I'm a sophomore studying Information and communication engineering who loves working with new technology
+         I'm studying Information and communication engineering who loves working with new technology
                   
 -- 🔨 I'm currently working on building projects for my portfolio
 
--- 🔭 I'm currently learning Graphical user interfaces with Guizero, Back-ck-end development with Meta on Coursera
+-- 🔭 I'm currently learning Back-end development with Meta on Coursera
 
 -- 🌱 I'm looking to learn more about building robots with python
 
--- 📪 You can reach me at  egbejuleeworitse@gmail.com
-
--- 🏫 Currently studying Information and communication engineering at Covenant University
-
--- ⚡️ Fun Fact: I read too many light novels than is healthy🌚
-
+-- 📪 You can reach me at egbejuleeworitse@gmail.com
 
 
 
