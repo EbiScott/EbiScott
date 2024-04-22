@@ -1,10 +1,12 @@
 
                                       Hi There, 👋 I'm Eworitse Ebinum Egbejule
-         I'm studying Information and communication engineering who loves working with new technology
+         I'm studying Information and communication engineering and I love working with new technology
                   
 -- 🔨 I'm currently working on building projects for my portfolio
 
 -- 🔭 I'm currently learning Back-end development with Meta on Coursera
+
+-- 😜 I build Guizero projects for fun
 
 -- 🌱 I'm looking to learn more about building robots with python
 
