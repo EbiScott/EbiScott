@@ -1,6 +1,6 @@
 
-                                      Hi There, 👋 I'm Eworitse Ebinum Egbejule
-         I'm studying Information and communication engineering and I love working with new technology
+<h3><b> Hi There 👋 </b></h3>  I'm <b>Eworitse Ebinum Egbejule</b>.
+I'm studying Information and communication engineering and I love working with new technology
                   
 -- 🔨 I'm currently working on building projects for my portfolio
 
@@ -16,7 +16,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EbiScott&show_icons=true&theme=transparent)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=EbiScott)](https://git.io/streak-stats)
 
 
 
