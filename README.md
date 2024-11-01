@@ -8,7 +8,7 @@ I'm studying Information and communication engineering and I love working with n
 
 -- 😜 I build Guizero projects for fun
 
--- 🌱 I'm looking to learn more about building robots with python
+-- 🌱 I'm looking to learn more about building web apps with python
 
 -- 📪 You can reach me at egbejuleeworitse@gmail.com
 
