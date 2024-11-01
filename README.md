@@ -4,7 +4,7 @@ I'm studying Information and communication engineering and I love working with n
                   
 -- 🔨 I'm currently working on building projects for my portfolio
 
--- 🔭 I'm currently learning Back-end development with Flask
+-- 🔭 I'm currently learning Back-end development with Flask and FastAPI
 
 -- 😜 I build Guizero projects for fun
 
