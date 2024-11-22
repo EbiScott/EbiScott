@@ -4,13 +4,13 @@ I'm studying Information and communication engineering and I love working with n
                   
 -- 🔨 I'm currently working on building projects for my portfolio
 
--- 🔭 I'm currently learning Back-end development with Flask and FastAPI
+-- 🔭 I'm currently learning Back-end development with FastAPI
 
--- 😜 I build Guizero projects for fun
+<!--- -- 😜 I build Guizero projects for fun --->
 
 -- 🌱 I'm looking to learn more about building web apps with python
 
--- 📪 You can reach me at egbejuleeworitse@gmail.com
+<!------ -- 📪 You can reach me at egbejuleeworitse@gmail.com ---->
 
 
 [![](https://visitcount.itsvg.in/api?id=Ebiscott&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)
