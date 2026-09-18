@@ -14,6 +14,8 @@ ISC2 Certified in Cybersecurity, GDG Track Lead for Cybersecurity & Networking. 
 <a href="https://www.github.com/EbiScott" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/EbiScott?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
 
+* I post my writeups and walkthroughs on [Hashnode](https://0xK4M1.hashnode.dev)
+  
 ### Stack
 
 <p align="left">
